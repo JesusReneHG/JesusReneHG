@@ -70,48 +70,6 @@ Academic and research experience in Japan and Germany, focused on robotics, auto
 
 ---
 
-## Featured Projects
-
-### ♻️ Collaborative Recycling Robot
-Autonomous collaborative robotic recycling system integrating computer vision, object classification, robotic grasping, manipulation, and multi-robot workflow coordination.
-
-**Tech Stack:**  
-ROS 2 • MoveIt • RealSense • UR5e • xArm7 • Robotiq • OpenCV
-
----
-
-### 🤖 PPO Target Following Robot
-Differential drive autonomous robot trained with reinforcement learning (PPO) for dynamic target following in simulation.
-
-**Tech Stack:**  
-ROS 2 • Stable-Baselines3 • PPO • CoppeliaSim • Python
-
----
-
-### 🚜 Embedded Autonomous Tractor
-Embedded autonomous navigation platform with waypoint tracking, sensor fusion, CAN communication, and low-level robotic control.
-
-**Tech Stack:**  
-STM32 • FreeRTOS • Embedded C • CAN • Sensor Fusion
-
----
-
-### 🧠 Human-Robot Collaboration @ AIST
-Research work focused on robotic collaboration, intelligent robot integration, autonomous behaviors, and robotic software systems.
-
-**Tech Stack:**  
-ROS 2 • Robotics Integration • HRI • Autonomy • Software Architecture
-
----
-
-### 🚗 Manchester Robotics Challenge
-Autonomous robotics implementation involving perception, navigation, trajectory execution, and mobile robot control.
-
-**Tech Stack:**  
-ROS 2 • Navigation • Control • Python • Computer Vision
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -171,22 +129,6 @@ ROS 2 • Navigation • Control • Python • Computer Vision
 - Robot Perception
 - Control Systems
 - Educational Robotics with TIAGo
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusReneHG&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusReneHG&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesusReneHG&theme=tokyonight"/>
-</p>
 
 ---
 
