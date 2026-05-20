@@ -5,18 +5,17 @@ Autonomous Systems Engineer | Robotics Software Engineer | ROS 2 | Perception | 
 </h3>
 
 <p align="center">
-Research Intern at AIST Japan working on robotics, autonomy, and human-robot collaboration.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/jesusrene/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/JesusReneHG">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:hdzgalindojeren@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:A00837617@tec.mx">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
   </a>
 </p>
 
