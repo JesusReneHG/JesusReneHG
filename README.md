@@ -1,6 +1,4 @@
-# Jesús René Hernández
-
-<h3 align="center">
+s<h3 align="center">
 Robotics Software Engineer | Autonomous Systems | ROS 2 | Robot Perception | Control
 </h3>
 
