@@ -1,8 +1,12 @@
 # Jesús René Hernández
 
 <h3 align="center">
-Autonomous Systems Engineer | Robotics Software Engineer | ROS 2 | Perception | Control
+Robotics Software Engineer | Autonomous Systems | ROS 2 | Robot Perception | Control
 </h3>
+
+<p align="center">
+Research Intern at AIST Japan building autonomous robotic systems, intelligent robot behavior, and robotic software architectures.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jesusrene/">
@@ -25,14 +29,14 @@ Autonomous Systems Engineer | Robotics Software Engineer | ROS 2 | Perception | 
 
 ```yaml
 name: Jesús René Hernández
-role: Robotics Engineering Student
-specialization: Autonomous Systems / Robotics Software
+role: Robotics Software Engineer
+specialization: Autonomous Systems Engineering
 institution: Tecnológico de Monterrey
 research:
   organization: AIST Japan
   focus: Human-Robot Collaboration
 experience:
-  - ROS 2 software development
+  - ROS 2 software architecture
   - Robot manipulation
   - Autonomous navigation
   - Computer vision
@@ -48,7 +52,7 @@ tools:
   - Python
   - C++
   - Linux
-status: Open to robotics research and engineering collaborations
+status: Open to robotics engineering and research collaborations
 ```
 
 ---
@@ -56,75 +60,105 @@ status: Open to robotics research and engineering collaborations
 ## Experience
 
 ### AIST — Human-Robot Collaboration Research Intern
-Working on robotic integration, collaborative robotics workflows, autonomy and intelligent robotic systems.
+Development and integration of intelligent robotic systems for collaborative robotics workflows, autonomy, and human-robot interaction.
 
-### Tecnológico de Monterrey — Robotics Engineering
+### Tecnológico de Monterrey
 B.Sc. in Robotics and Digital Systems Engineering.
 
-### International Experience
-Academic and research experience in Germany and Japan.
+### International Engineering Experience
+Academic and research experience in Japan and Germany, focused on robotics, autonomy, and intelligent systems.
 
 ---
 
 ## Featured Projects
 
 ### ♻️ Collaborative Recycling Robot
-Autonomous collaborative robotic recycling system using computer vision, ROS 2, dual manipulators, robotic grasp execution, and system integration.
+Autonomous collaborative robotic recycling system integrating computer vision, object classification, robotic grasping, manipulation, and multi-robot workflow coordination.
 
-**Tech:** ROS 2 • MoveIt • RealSense • UR5e • xArm7 • Robotiq
+**Tech Stack:**  
+ROS 2 • MoveIt • RealSense • UR5e • xArm7 • Robotiq • OpenCV
 
 ---
 
 ### 🤖 PPO Target Following Robot
-Differential drive robot trained with reinforcement learning (PPO) to follow a moving target in simulation.
+Differential drive autonomous robot trained with reinforcement learning (PPO) for dynamic target following in simulation.
 
-**Tech:** ROS 2 • Stable-Baselines3 • PPO • CoppeliaSim • Python
+**Tech Stack:**  
+ROS 2 • Stable-Baselines3 • PPO • CoppeliaSim • Python
 
 ---
 
 ### 🚜 Embedded Autonomous Tractor
-Autonomous embedded robotic platform with waypoint navigation, sensor fusion, CAN communication and control.
+Embedded autonomous navigation platform with waypoint tracking, sensor fusion, CAN communication, and low-level robotic control.
 
-**Tech:** STM32 • FreeRTOS • CAN • Embedded C • Sensor Fusion
+**Tech Stack:**  
+STM32 • FreeRTOS • Embedded C • CAN • Sensor Fusion
 
 ---
 
 ### 🧠 Human-Robot Collaboration @ AIST
-Research work focused on intelligent robotic collaboration and autonomy.
+Research work focused on robotic collaboration, intelligent robot integration, autonomous behaviors, and robotic software systems.
 
-**Tech:** ROS 2 • Robotics Integration • HRI • Autonomy
+**Tech Stack:**  
+ROS 2 • Robotics Integration • HRI • Autonomy • Software Architecture
 
 ---
 
 ### 🚗 Manchester Robotics Challenge
-Autonomous mobile robotics challenge involving navigation, control, and robot perception.
+Autonomous robotics implementation involving perception, navigation, trajectory execution, and mobile robot control.
 
-**Tech:** ROS 2 • Navigation • Control • Python
+**Tech Stack:**  
+ROS 2 • Navigation • Control • Python • Computer Vision
 
 ---
 
 ## Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
 
 ### Robotics
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![MoveIt](https://img.shields.io/badge/MoveIt-000000?style=for-the-badge)
-![Gazebo](https://img.shields.io/badge/Gazebo-242424?style=for-the-badge)
-![RViz](https://img.shields.io/badge/RViz-1A1A1A?style=for-the-badge)
+
+<p>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MoveIt-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gazebo-242424?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RViz-1A1A1A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CoppeliaSim-F28C28?style=for-the-badge"/>
+</p>
 
 ### Vision / AI
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### Embedded
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-6A0DAD?style=for-the-badge"/>
+</p>
+
+### Embedded Systems
+
+<p>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CAN-Bus-blue?style=for-the-badge"/>
+</p>
+
+### Hardware
+
+<p>
+  <img src="https://img.shields.io/badge/UR5e-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/xArm7-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RealSense-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Robotiq-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ANYmal-darkgreen?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -132,21 +166,26 @@ Autonomous mobile robotics challenge involving navigation, control, and robot pe
 
 - Human-Robot Collaboration
 - Autonomous Robotics
+- Robotics Software Architecture
 - Reinforcement Learning for Robotics
 - Robot Perception
 - Control Systems
-- Educational robotics with TIAGo
+- Educational Robotics with TIAGo
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesusReneHG&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusReneHG&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusReneHG&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusReneHG&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesusReneHG&theme=tokyonight"/>
 </p>
 
 ---
@@ -154,4 +193,6 @@ Autonomous mobile robotics challenge involving navigation, control, and robot pe
 ## Contact
 
 📍 Tokyo / Monterrey  
-📧 hdzgalindojeren@gmail.com
+📧 hdzgalindojeren@gmail.com  
+🏫 Tecnológico de Monterrey  
+🔗 LinkedIn: https://www.linkedin.com/in/jesusrene/
