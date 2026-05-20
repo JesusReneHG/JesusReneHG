@@ -135,6 +135,5 @@ Academic and research experience in Japan and Germany, focused on robotics, auto
 ## Contact
 
 📍 Tokyo / Monterrey  
-📧 hdzgalindojeren@gmail.com  
 🏫 Tecnológico de Monterrey  
-🔗 LinkedIn: https://www.linkedin.com/in/jesusrene/
+
